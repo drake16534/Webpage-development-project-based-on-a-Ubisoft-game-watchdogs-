@@ -83,7 +83,7 @@ a:hover{
 	margon-right:200;
 }
 #main-header {
-  background-image: url('../images/dedsec-skull.png'); 
+  background-image: url('images/dedsec-skull.png'); 
   background-size: cover;
   background-position: center;
   height: 200px;
@@ -96,5 +96,6 @@ a:hover{
 #main-header h1 {
   font-size: 4vw; 
 }
+
 
 
